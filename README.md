@@ -113,7 +113,7 @@ These tests are written in Java using the RestAssured library and TestNG.
 **Ionut-Laurentiu Cojocaru**  
 💼 Aspiring Junior QA Engineer  
 📧 cojocaruionutlaurentiu@gmail.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/ionut-laurențiu-cojocaru-526763297)
+🔗 [LinkedIn Profile]([https://www.linkedin.com/in/ionut-laurențiu-cojocaru-526763297](https://www.linkedin.com/in/ionut-laurentiu-cojocaru/))
 
 ---
 
