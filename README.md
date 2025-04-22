@@ -93,6 +93,21 @@ Open the Excel file:
 
 ---
 
+---
+
+## 🧪 API Automated Tests (RestAssured)
+
+These tests are written in Java using the RestAssured library and TestNG.
+
+### ✅ Test 1 – GET /posts/1
+- Verifies status code is **200**
+- Checks if body contains `userId`, `title`, and `body`
+
+### ✅ Test 2 – POST /posts
+- Sends a new post with `title`, `body`, and `userId`
+- Verifies status code **201**
+- Confirms the response contains sent values
+
 ## 👤 Author
 
 **Ionut-Laurentiu Cojocaru**  
